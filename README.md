@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikshitchavda
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning new programming technologis
+- 🌱 I’m learning new programming technologis like reactjs & nodejs
 - 📫 You can reach me by email (ekshitchavda9@gmail.com)
 
 <!---
